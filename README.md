@@ -5,5 +5,7 @@ Android App for Effervescence MMXIV of IIIT Allahabad. Effervescence is the annu
 
 [Play Store Link](https://play.google.com/store/apps/details?id=iiita.effervescencemmxiv) 
 
+This is what it looked like.
 
-![alt text](youtube.png)
+
+![alt text](img/Features.png)
